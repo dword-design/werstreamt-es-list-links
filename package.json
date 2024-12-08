@@ -30,7 +30,7 @@
     "@dword-design/puppeteer": "^5.0.2",
     "@dword-design/tester": "^2.0.4",
     "@dword-design/tester-plugin-puppeteer": "^2.1.15",
-    "execa": "^5.1.1"
+    "execa": "^9.0.0"
   },
   "engines": {
     "node": ">=12"
